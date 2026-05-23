@@ -1,4 +1,4 @@
-# AI 电商竞品分析工具
+<img width="2489" height="1191" alt="69674fa231110f9ab39ee9fb4d02281d" src="https://github.com/user-attachments/assets/56df2326-da25-4f88-a6b9-19ef0225966b" /># AI 电商竞品分析工具
 
 基于 DeepSeek API 的轻量电商竞品对比分析系统，输入产品与竞品信息，生成专业电商运营分析日报。
 
@@ -65,6 +65,12 @@ src/
 ```bash
 npm run build
 npm start
+<img width="2489" height="1191" alt="8877196cb6aab7d2175f09253c385e46" src="https://github.com/user-attachments/assets/a68e1af7-79ec-434d-a2fe-88864dad8faf" />
+<img width="2489" height="1191" alt="20fb10157356d6b73ffc4ae8262a6c00" src="https://github.com/user-attachments/assets/fd010871-653b-4563-9701-05e4edf60046" />
+<img width="2489" height="1191" alt="69674fa231110f9ab39ee9fb4d02281d" src="https://github.com/user-attachments/assets/99e94457-def9-4d3c-927c-641a392caac1" />
+<img width="2489" height="1191" alt="d94bcda9f83d6c237728e24cd848a397" src="https://github.com/user-attachments/assets/6221b42f-1714-42f0-9b75-bb75e379e30f" />
+<img width="2489" height="1191" alt="dcc289109bd8612baeded4a33f694289" src="https://github.com/user-attachments/assets/8b6f36a5-9bf7-4f17-8d1c-51c4be841252" />
+
 ```
 
 ## License
